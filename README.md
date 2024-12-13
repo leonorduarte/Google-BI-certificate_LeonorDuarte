@@ -26,6 +26,6 @@ First, I started with completing 3 Key business intelligence documents under cou
 
 **Strategy Document:** This is a collaborative place to align with stakeholders about project deliverables.
 
-Then, I create the [dashboard](https://github.com/leonorduarte/Google-BI-certificate_LeonorDuarte/blob/main/Google%20Fiber%20Call%20Resolution%20Optimization%20Dashboard%20(1).pdf)using Power BI   !
+Then, I create the [dashboard](https://github.com/leonorduarte/Google-BI-certificate_LeonorDuarte/blob/main/Google%20Fiber%20Call%20Resolution%20Optimization%20Dashboard%20(1).pdf) using Power BI!
 
 [Dataset from Kaggle](https://www.kaggle.com/datasets/ericklumula/google-fiber-internet-calls).
