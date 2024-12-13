@@ -31,7 +31,7 @@ First, I started with completing 3 Key business intelligence documents under cou
 # Conclusions
 The analysis revealed key insights. Market 1 accounted for the majority of repeated calls, approximately 63%, followed by Market 3 with 34%, while Market 2 contributed only 4%. Among issue types, Type 5 (Internet and WiFi) had the highest proportion of repeated calls at 51%, followed by Type 2 (Technician Troubleshooting) at 30%. Type 4 (Construction) had the lowest percentage, just 1%. Timing analysis showed that repeated calls most commonly occurred on day 1 following the initial contact, highlighting the need for prompt issue resolution. Weekly patterns indicated that Markets 1 and 2 saw the highest volume of repeated calls on Mondays, whereas Market 3 experienced a peak on Wednesdays.
 
-Then, I create the [dashboard](https://github.com/leonorduarte/Google-BI-certificate_LeonorDuarte/blob/main/Google%20Fiber%20Call%20Resolution%20Optimization%20Dashboard%20(1).pdf) using Power BI!
+[dashboard](https://github.com/leonorduarte/Google-BI-certificate_LeonorDuarte/blob/main/Google%20Fiber%20Call%20Resolution%20Optimization%20Dashboard%20(1).pdf) using Power BI!
 
 
 
