@@ -20,11 +20,11 @@ This is a repository to showcase skills, share projects and track my progress in
 
 First, I started with completing 3 Key business intelligence documents under course guidence. The documents are:
 
-**Stakeholder Requirements Document:** This is to capture stakeholder requests and requirements so you understand their needs before planning the rest of the project details or strategy.
+[Stakeholder Requirements Document](https://github.com/leonorduarte/Google-BI-certificate_LeonorDuarte/blob/main/Google_Fiber_Stakeholder-Requirements-Document_LD.pdf) This is to capture stakeholder requests and requirements so you understand their needs before planning the rest of the project details or strategy.
 
-**Project Requirements Document:** This document cover project requirements that need to be met to achieve the stakeholder requirements.
+[Project Requirements Document](https://github.com/leonorduarte/Google-BI-certificate_LeonorDuarte/blob/main/Google_Fiber_Project-Requirements-Document_LD.pdf) This document cover project requirements that need to be met to achieve the stakeholder requirements.
 
-**Strategy Document:** This is a collaborative place to align with stakeholders about project deliverables.
+[Strategy Document](https://github.com/leonorduarte/Google-BI-certificate_LeonorDuarte/blob/main/Google_FiberStrategy-Document_LD.pdf) This is a collaborative place to align with stakeholders about project deliverables. 
 
 Then, I create the [dashboard](https://github.com/leonorduarte/Google-BI-certificate_LeonorDuarte/blob/main/Google%20Fiber%20Call%20Resolution%20Optimization%20Dashboard%20(1).pdf) using Power BI!
 
